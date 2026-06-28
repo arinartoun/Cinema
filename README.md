@@ -1,6 +1,11 @@
-# usePopcorn
+# cinema
 
-usePopcorn is a React movie discovery and watchlist application. Users can search for movies, inspect movie details, rate titles, maintain a watched list, and view summary statistics. Optional accounts add server-backed watchlists, comments, and profile settings.
+cinema is a React movie discovery and watchlist application. Users can search for movies, inspect movie details, rate titles, maintain a watched list, and view summary statistics. Optional accounts add server-backed watchlists, comments, and profile settings.
+<img width="834" height="394" alt="Screenshot 2026-06-27 160812" src="https://github.com/user-attachments/assets/817511cf-912f-4a1f-880e-5b6ca6d278c4" />
+<img width="834" height="401" alt="Screenshot 2026-06-27 160735" src="https://github.com/user-attachments/assets/d86bda1b-5f88-4986-ada4-bd243400067b" />
+<img width="832" height="397" alt="Screenshot 2026-06-27 160704" src="https://github.com/user-attachments/assets/ac1975b8-70aa-4b08-8861-eb890d8739da" />
+<img width="833" height="399" alt="Screenshot 2026-06-27 160631" src="https://github.com/user-attachments/assets/a4c7eea2-4129-4376-bafd-15300c310815" />
+
 
 ## Features
 
